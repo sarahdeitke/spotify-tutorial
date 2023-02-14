@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Spotify Playlist Tutorial
 
 This project is a basic React tutorial of Spotify's Playlist page, created for instruction.
+
+![alt text](https://github.com/sarahdeitke/spotify-tutorial/blob/mainimg/FinalResult.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
