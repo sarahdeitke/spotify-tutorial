@@ -24,7 +24,7 @@ function App() {
           const album = x.track.album.name;
 
           return (
-            <div key={i}>
+            <div key={i} onClick={() => setSelectedIndex(i)}>
               <Track
                 name={name}
                 artist={artist}
